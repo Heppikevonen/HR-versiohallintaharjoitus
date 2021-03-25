@@ -93,3 +93,7 @@ img {
 figure {
     margin-left: 0;
 }
+
+figcaption {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
